@@ -2,7 +2,7 @@
 title: "Incremental Object Grounding Using Scene Graphs"
 collection: publications
 permalink: /publication/2022-01-06-incremental
-excerpt: 'This paper aims to disambiguate the human\'s referring expressions by allowing the agent to ask relevant questions based on semantic data obtained from scene graphs.'
+excerpt: 'This paper aims to disambiguate the human referring expressions by allowing the agent to ask relevant questions based on semantic data obtained from scene graphs.'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
