@@ -1,7 +1,7 @@
 ---
 title: "Incremental Object Grounding Using Scene Graphs"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2022-01-06-incremental
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
