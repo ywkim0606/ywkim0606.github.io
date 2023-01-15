@@ -1,5 +1,5 @@
 ---
-title: "CS6476 Computer Vision"
+title: "CS6476 Computer Vision, Teaching Assistant"
 collection: teaching
 type: "Undergraduate/Graduate course"
 permalink: /teaching/2021-spring-teaching-1
