@@ -7,6 +7,6 @@ venue: "Georgia Institute of Technology"
 date: 2022-01-15
 location: "Atlanta, US"
 ---
-Assisted class size of 250 students on campus by holding weekly office hours and replying to questions online.
-Designed and implemented an image segmentation project using the Kitti road segmentation dataset with
-Pytorch.
+• Assisted class size of 250 students on campus by holding weekly office hours and replying to questions online.
+
+• Designed and implemented an image segmentation project using the Kitti road segmentation dataset with Pytorch.
