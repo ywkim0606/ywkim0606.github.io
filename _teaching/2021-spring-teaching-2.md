@@ -7,5 +7,4 @@ venue: "Georgia Institute of Technology"
 date: 2021-01-15
 location: "Atlanta, US"
 ---
-
 • Assisted class size of 600 students online through holding weekly office hours, replying to questions online, and writing exam questions.
