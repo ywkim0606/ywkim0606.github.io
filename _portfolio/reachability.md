@@ -1,6 +1,6 @@
 ---
 title: "Reachability Map Visualization on an AR device."
-excerpt: "Reachability map of 7-DoF mobile manipulator<br/><img src='/images/reach_visualization.png'>"
+excerpt: "Reachability map of 7-DoF mobile manipulator<br/><img src='/images/reach_visualization_w500.png'>"
 collection: portfolio
 ---
 
