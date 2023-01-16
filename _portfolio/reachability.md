@@ -53,11 +53,17 @@ Randomly generating joint variables within the joint limits was done using numpy
 
 # 3. Results
 
-<br/><img src='/images/pc_fig1.png'>
+<p align="center">
+  <img src='/images/pc_fig1.png'>
+</p>
 
-<br/><img src='/images/mesh_fig1.png'>
+<p align="center">
+  <img src='/images/mesh_fig1.png'>
+</p>
 
-<br/><img src='/images/mesh_fig2.png'>
+<p align="center">
+  <img src='/images/mesh_fig2.png'>
+</p>
 
 The results above is visualization of Fetch robot’s workspace using forward kinematics and sampling method. Future work can be visualizing the singularity configurations within the workspace for human workers to better understand the robot. When the end effector of a robot manipulator is close to the singular configuration, joint velocities can jump to infinity leading to uncontrollable end effector forces. This can cause problems for robots assigned delicate tasks such as surgery or painting. Therefore, it is important for humans to be able to identify singular configurations that might occur within the workspace of the robot. Also, there are other ways to visualize the workspace of a robot such as sweeping algorithms and it will be interesting to compare the final visualized workspace of these various methods.
 
