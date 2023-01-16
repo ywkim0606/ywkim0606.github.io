@@ -59,8 +59,8 @@ The results above is visualization of Fetch robot’s workspace using forward ki
 This project allows visualization of the proximate workspace of an actual robot. Although the method of sampling random configurations and using forward kinematics to visualize the workspace of a theoretical robot was explained in Kunze [2] there weren't cases where this method was actually used on a real robot manipulator. This project uses ROS, MoveIt, and Fetch library.
 
 # 5. Bibliography
-[1] D. Zlatanov, Generalized Singularity Analysis of Mechanisms. PhD thesis, University of Toronto, 1998.
-[2] Kunze, Mirko. “On-the-Fly Workspace Visualization for Redundant Manipulators.” 2016.
-[3] Nadal, Oriol Bohigas. “Numerical Computation and Avoidance of Manipulator Singularities.”
-Tesi doctoral - Universitat Politècnica de Catalunya. Institut d'Organització i Control de Sistemes Industrials, 2013.
-[4] Spong, Mark W., Seth Hutchinson, M.Vidyasagar. Robot Modeling and Control. John Wiley & Sons, Inc., 2005.
+[1] D. Zlatanov, Generalized Singularity Analysis of Mechanisms. PhD thesis, University of Toronto, 1998.\\
+[2] Kunze, Mirko. “On-the-Fly Workspace Visualization for Redundant Manipulators.” 2016.\\
+[3] Nadal, Oriol Bohigas. “Numerical Computation and Avoidance of Manipulator Singularities.”\\
+Tesi doctoral - Universitat Politècnica de Catalunya. Institut d'Organització i Control de Sistemes Industrials, 2013.\\
+[4] Spong, Mark W., Seth Hutchinson, M.Vidyasagar. Robot Modeling and Control. John Wiley & Sons, Inc., 2005.\\
