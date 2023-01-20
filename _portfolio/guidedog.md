@@ -9,7 +9,9 @@ Although guide dogs can have crucial influence on the lives of visually impaired
 
 ## Contributions
 • We formulate tasks for robot guide dogs that use rigid harness in RL, which is the first attempt, to the best of our knowledge.
+
 • We propose new reward designs to additionally train policies to follow human feedback.
+
 • We introduce a LSTM classifier to distinguish human feedback force
 
 # Technical Report
