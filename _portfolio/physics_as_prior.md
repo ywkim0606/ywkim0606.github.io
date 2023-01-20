@@ -13,4 +13,4 @@ System identification, a methodology to obtain a dynamic model has been studied 
 - Discuss if the learned model can be used in model-based reinforcement learning to generate a good policy in a sample efficient manner.
 
 # Technical Report
-[Technical Report](http://ywkim0606.github.io/files/physics_prior.pdf)
+[Technical Report](http://ywkim0606.github.io/files/physics_as_prior.pdf)
