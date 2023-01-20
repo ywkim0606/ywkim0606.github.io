@@ -1,6 +1,6 @@
 ---
 title: "Using Physics as Prior in Imitation Learning."
-excerpt: "Reachability map of 7-DoF mobile manipulator<br/><img src='/images/physics_as_prior_500.png'>"
+excerpt: "Motion capture dataset in Mujoco environment<br/><img src='/images/physics_as_prior_500.png'>"
 collection: portfolio
 ---
 
