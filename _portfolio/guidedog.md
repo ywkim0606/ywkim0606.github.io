@@ -1,6 +1,6 @@
 ---
 title: "Teaching a Robotic Guide Dog to Walk with Human User."
-excerpt: "Human gait visualization<br/><img src='/images/guidedog_w500_2.png'>"
+excerpt: "Human gait analysis and its application to HRI<br/><img src='/images/guidedog_w500_2.png'>"
 collection: portfolio
 ---
 
