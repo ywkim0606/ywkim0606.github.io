@@ -1,6 +1,6 @@
 ---
 title: "Teaching a Robotic Guide Dog to Walk with Human User."
-excerpt: "Reachability map of 7-DoF mobile manipulator<br/><img src='/images/guidedog_w500_2.png'>"
+excerpt: "Human gait visualization<br/><img src='/images/guidedog_w500_2.png'>"
 collection: portfolio
 ---
 
